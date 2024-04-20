@@ -10,6 +10,14 @@
     background-size: cover;
     height: 1200px;
 }
+.text2_cialo{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    color: black;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
 .text_cialo{
     font-size: 40px;
     font-weight: 700;
