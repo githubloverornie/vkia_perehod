@@ -134,6 +134,9 @@
 }
 .img_wrapflex{
     width: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 /* .link_love_2, .link_love_4{
     width: 400px;
