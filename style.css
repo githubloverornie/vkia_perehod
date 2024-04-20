@@ -86,6 +86,7 @@
 }
 .image_1, .image_2, .image_3, .image_4{
     width: 40px;
+    border-radius: 10px;
 }
 .flex_1{
     display: flex;
