@@ -10,6 +10,13 @@
     background-size: cover;
     height: 1200px;
 }
+.text_cialo{
+    font-size: 40px;
+    font-weight: 700;
+    color: bluevioet;
+    text-align: center;
+    padding-top: 40px;
+}
 .img_cialo{
     display: block;
     margin: 0 auto;
@@ -85,7 +92,7 @@
     padding-bottom: 50px;
 }
 .wrapper_flex-grid{
-    padding-top: 50px;
+    
 }
 .wrapper_flex-grid-3{
     padding-bottom: 50px;
