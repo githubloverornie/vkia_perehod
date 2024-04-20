@@ -19,14 +19,14 @@
     font-size: 20px;
     font-weight: bold;
     text-align: end;
-    color: black;
+    color: white;
     padding-bottom: 40px;
     padding-top: 20px;
 }
 .text_cialo{
     font-size: 40px;
     font-weight: 700;
-    color: #000;
+    color: #fff;
     text-align: center;
     padding-top: 40px;
 }
@@ -111,7 +111,7 @@
     padding-bottom: 50px;
 }
 .section_flex-grid{
-    background-image: url(./fragB.jpg);
+    background-color: wheat;
     /* background-repeat: no-repeat; */
 }
 .flex_2{
