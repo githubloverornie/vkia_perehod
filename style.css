@@ -47,6 +47,7 @@
 .img_cialo{
     display: block;
     margin: 0 auto;
+    width: 300px;
 }
 /* .flex_kotik{
     display: flex;
@@ -108,7 +109,7 @@
     align-items: center;
 }
 .section_flex-grid img{
-    width: 250px;
+    width: 300px;
     /* height: 520px; */
 }
 .img_f-g6{
