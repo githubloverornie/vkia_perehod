@@ -11,16 +11,16 @@
     height: 1300px;
 }
 .wrapper_square{
-    display: flex;
+    display:block;
     width: 150px;
     height: 150px;
     background-color: white;
     border-radius: 20px;
-    align-items: center;
-    justify-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
 }
 .text_square{
-    font-size: 25px;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
 }
