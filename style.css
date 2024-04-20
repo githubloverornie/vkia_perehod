@@ -69,6 +69,7 @@
     align-items: center;
 }
 .section_flex-grid img{
+    margin: 0 auto;
     width: 400px;
     /* height: 520px; */
 }
