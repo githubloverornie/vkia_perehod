@@ -11,6 +11,8 @@
     height: 1200px;
 }
 .img_cialo{
+    display: block;
+    margin: 0 auto;
 }
 /* .flex_kotik{
     display: flex;
