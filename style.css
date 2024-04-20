@@ -10,6 +10,19 @@
     background-size: cover;
     height: 1300px;
 }
+.wrapper_square{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.text_square{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
 .flex_cialo{
     display: flex;
     justify-content: flex-end;
