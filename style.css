@@ -16,13 +16,14 @@
     height: 150px;
     background-color: white;
     border-radius: 20px;
+    margin-top: 200px;
     margin: 0 auto;
-    margin-top: 40px;
 }
 .text_square{
     font-size: 12px;
     font-weight: bold;
     text-align: center;
+    padding-top:20px;
 }
 .flex_cialo{
     display: flex;
